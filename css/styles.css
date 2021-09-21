@@ -1,0 +1,37 @@
+body{
+  background-color: #bbff00;
+}
+hr{
+border-style: none;
+border-top-style: dotted;
+border-color: grey;
+border-width: 5px;
+width: 10%;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #dc143c;
+}
+h3{
+  color:#66BFBF;
+}
+.flowers{
+  background-position: left;
+}
+.circular{
+  border-radius: 100%;
+}
+.btn{
+  background: #11cdd4;
+  border-radius: 5px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px auto;
+  text-decoration: none;
+  }
+#heading{
+  color: red;
+}
